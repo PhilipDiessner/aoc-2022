@@ -1,0 +1,5 @@
+**/__pycache__/
+.pythonversion
+aoc.cookie
+lib/2021/
+data/
